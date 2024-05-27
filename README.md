@@ -16,7 +16,7 @@ The primary goal of this project was to create a high-performing legal question-
 ## Fine-Tuning Details
 
 ### Model
-- Base Model: `nvidia/Llama3-ChatQA-1.5-8B`
+- Base Model: `meta-llama/Meta-Llama-3-8B`
 - Fine-Tuned Model: `StevenChen16/llama3-8b-Lawyer`
 
 ### Dataset
