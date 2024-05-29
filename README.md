@@ -130,7 +130,7 @@ The fine-tuned model has shown promising results in understanding and answering 
 
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - Dataset: `dzunggg/legal-qa-v1`
-- Base Model: `nvidia/Llama3-ChatQA-1.5-8B`
+- Base Model: `meta-llama/Meta-Llama-3-8B`
 - Hosted on [Hugging Face](https://huggingface.co/StevenChen16/llama3-8b-Lawyer)
 
 ## License
